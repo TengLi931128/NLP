@@ -10,3 +10,5 @@
 **--------BertUsage.ipynb**：主要记录一些bert模型的用法。  
 **--------AttentionUsage.ipynb**：简单解释下attention的核心思想。 
 **--------BM25.ipynb**：gensim库简单实现BM25
+**----Learning_Algorithm**：记录一些训练方法。  
+**--------BertUsage.ipynb**：对比学习。
